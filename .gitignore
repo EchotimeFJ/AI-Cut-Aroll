@@ -1,0 +1,9 @@
+# cutcli 中间文件
+*.json.bak
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
